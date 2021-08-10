@@ -1,0 +1,20 @@
+{
+  "name": "people-cli",
+  "version": "1.0.0",
+  "description": "A node.js Console application utilizing public OData API to query people",
+  "main": "bin/index.js",
+  "bin": {
+    "people": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gafar Popoola",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "clui": "^0.3.6",
+    "dotenv": "^10.0.0",
+    "yargs": "^17.1.0"
+  }
+}
