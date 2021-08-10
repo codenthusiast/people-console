@@ -55,7 +55,7 @@ $ people -d russellwhyte
 └───────────┴───────────────────────────────────────────┘
 ```
 
-##Help
+## Help
 ```bash
 $ people --help
 
